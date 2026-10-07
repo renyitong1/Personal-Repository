@@ -263,7 +263,7 @@ static void kalman_assignment(kalman_filter_t *kal, float dt)
 
 	kal->H[0][0] = 1.0f; kal->H[0][1] = 0.0f;
 
-	kal->R[0][0] = 1.0f;
+	kal->R[0][0] = 10.0f;
 
 	kal->Q[0][0] = 0.01f; kal->Q[0][1] = 0.0f;
 	kal->Q[1][0] = 0.0f; kal->Q[1][1] = 0.1f;
