@@ -1,0 +1,13 @@
+calman_filter_6020\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+calman_filter_6020\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+calman_filter_6020\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+calman_filter_6020\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+calman_filter_6020\heap_4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+calman_filter_6020\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+calman_filter_6020\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+calman_filter_6020\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+calman_filter_6020\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+calman_filter_6020\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+calman_filter_6020\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+calman_filter_6020\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+calman_filter_6020\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
